@@ -1,0 +1,6 @@
+# Ignore environment and secrets
+.env
+__pycache__/
+*.pyc
+vectorstore.pkl
+vector_index.pkl
